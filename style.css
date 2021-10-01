@@ -1,0 +1,66 @@
+<style>
+body{
+background-image=url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Dw_zAMIMOD92RgUMhWwjX8317UeIjcuLeA&usqp=CAU");
+}
+h1{
+font-family: "Lucida Console", "Courier New", monospace;
+text-align:center;
+}
+h2,h3,h5,h6{font-size:30px;
+color:red;
+font-family: Arial, Helvetica, sans-serif;
+text-align:left;
+}
+h4{font-size:30px;
+font-family: Arial, Helvetica, sans-serif;
+}
+p,ul{font-size:20px;
+font-family: 'Times New Roman', Times, serif; 
+}
+ul{border:2px solid red;
+radius:5px;
+}
+div {
+  width: 580px;
+  padding: 10px;
+  border: 5px solid gray;
+}
+header *{
+             color: w;
+         }
+         header .logo{
+             float :left;
+         }
+         header ul{
+             float: right;
+         }
+         header menu-toggle{
+             display: none;
+         }
+         header ul li{
+             float: left;
+         }
+        header ul li a{
+             display: black;
+             padding: 21px;
+             font-size: 0.5cm;
+             text-decoration: none;
+         }
+         header ul li a:hover{
+             background:blanchedalmond;
+             transition: 0.5s;
+         }
+         header{
+             background:red;
+             height: 100px;
+         }
+header h7{
+text-align:left;
+font-size:40px;
+}
+footer{
+             background:red;
+             height: 100px;
+         }
+
+</style>
